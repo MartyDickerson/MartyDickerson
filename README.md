@@ -25,7 +25,7 @@
 [<img align="left" alt="cyberinelhq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/@CyberIntelHQ
+[youtube]: https://www.youtube.com/CyberIntelHQ
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
