@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azzure SOC Home Lab](https://github.com/MartyDickerson/ActiveDirectoryLab/tree/main)
+  - [Azure SOC Home Lab](https://github.com/MartyDickerson/ActiveDirectoryLab/tree/main)
   - [Hello World!](https://github.com/MartyDickerson/ActiveDirectoryLab/tree/main)
 
 <h2>:page_with_curl: Certifications</h2>
