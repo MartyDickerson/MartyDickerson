@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
--<b>Data Structures and Algorithms</b>
+<b>Data Structures and Algorithms</b>
   - [Azure SOC Home Lab](https://github.com/MartyDickerson/ActiveDirectoryLab/tree/main)
   - [Hello World!](https://github.com/MartyDickerson/ActiveDirectoryLab/tree/main)
 
