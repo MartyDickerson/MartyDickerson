@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marty Dickerson! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Marty Dickerson! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/"></a></h1>
 
 <h2>💻 Cybersecurity Projects:</h2>
 
