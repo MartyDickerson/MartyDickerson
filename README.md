@@ -20,6 +20,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Ship more!!
 - ⚡ Fun fact: I love to stream on Twitch
+
 <!--🔐 SOC Analyst:
 
 Skilled in incident detection, triage, and response
