@@ -1,4 +1,4 @@
-# 🏄‍♂️ Marty Dickerson
+# 🌐 Marty Dickerson
 
 **`Digital Craftsman (SOC Analyst/YouTuber/Creator)`**
 
