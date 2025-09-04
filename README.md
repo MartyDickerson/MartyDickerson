@@ -2,7 +2,34 @@
 
 **`Digital Craftsman (SOC Analyst/YouTuber/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+👋 Hi, I’m Marty — a Security Operations Center (SOC) Analyst and programmer passionate about defending systems, analyzing threats, and building tools that make security operations smarter and more efficient.
+
+🔐 SOC Analyst:
+
+Skilled in incident detection, triage, and response
+
+Experienced with SIEM tools, threat intelligence, and log analysis
+
+Strong understanding of MITRE ATT&CK, cyber defense frameworks, and network monitoring
+
+💻 Programmer:
+
+Comfortable coding in Python, Bash, and PowerShell for automation and security tooling
+
+Building scripts, dashboards, and utilities to streamline SOC workflows
+
+Always experimenting with ways to merge programming and security operations
+
+🚀 What you’ll find here:
+
+Security scripts & automation tools
+
+Labs and documentation from my SOC analyst journey
+
+Programming projects that blend cybersecurity and development
+
+📚 Always learning, always building.
+<!--I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
 <!--<p align="center">
 <h1>Hi, I'm Marty Dickerson! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a></h1>
 </p>
