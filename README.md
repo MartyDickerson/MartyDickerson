@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (SOC Analyst/YouTuber/Creator)`**
 
-👋 Hi, I’m Marty — a Security Operations Center (SOC) Analyst and programmer passionate about defending systems, analyzing threats, and building tools that make security operations smarter and more efficient.
+👋 A Security Operations Center (SOC) Analyst and programmer passionate about defending systems, analyzing threats, and building tools that make security operations smarter and more efficient.
 
 🔐 SOC Analyst:
 
