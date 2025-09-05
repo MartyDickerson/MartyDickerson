@@ -139,7 +139,7 @@ Programming projects that blend cybersecurity and development-->
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartyDickerson&show_icons=true&theme=codeSTACKr)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartyDickerson&show_icons=true&theme=blue-green)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
