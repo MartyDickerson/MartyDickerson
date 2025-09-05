@@ -116,15 +116,23 @@ Programming projects that blend cybersecurity and development-->
 <!-- YOUTUBE:END -->
 
 <!--➡️ [more videos...](https://youtube.com/codestackr)-->
+<hr>
 
-
+### 🛜 TryHackMe Journey
+<!-- YOUTUBE:START -->
+- [Generative UI is the future of AI Interactions!!](https://www.youtube.com/watch?v=goxnUKwwf-I)
+- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
+- [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
+- [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
+- [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
+<!-- YOUTUBE:END -->
 <hr>
 
 ### 🐍 Python Projects
 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+<hr>
 
 ### 📄 YouTube Resource Videos
 
