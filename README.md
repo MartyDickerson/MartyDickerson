@@ -113,7 +113,7 @@ Programming projects that blend cybersecurity and development-->
 - [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+<!--➡️ [more videos...](https://youtube.com/codestackr)-->
 
 
 <hr>
