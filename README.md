@@ -12,6 +12,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
  <!-- <a href="https://github.com/MartyDickerson?tab=stars/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>-->
+  
 </p>
 
 ## I'm a Husband, Father, SOC Analyst, and Creator!!
