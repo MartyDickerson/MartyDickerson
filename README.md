@@ -1,4 +1,4 @@
-# Hi there, I'm Marty - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Marty - aka [CyberIntelHQ][youtube] 👋 
 
 <p align="left">
   <a href="https://www.youtube.com/@CyberIntelHQ?sub_confirmation=1">
