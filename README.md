@@ -17,7 +17,7 @@
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning to become a SOC Analyst
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to network with other SOC Analyst
 - 🥅 2025 Goals: Ship more!!
 - ⚡ Fun fact: I love to stream on Twitch
 
