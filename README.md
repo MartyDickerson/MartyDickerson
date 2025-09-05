@@ -16,7 +16,7 @@
 ## I'm a Husband, Father, SOC Analyst, and Creator!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning to become a SOC Analyst
+- 🌱 I’m currently learning to become a Cybersecurity SOC Analyst
 - 👯 I’m looking to network with other SOC Analyst
 - 🥅 2025 Goals: Ship more!!
 - ⚡ Fun fact: I love to stream on Twitch
