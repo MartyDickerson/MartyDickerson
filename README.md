@@ -1,7 +1,7 @@
 # Hi there, I'm Marty - aka [CyberIntelHQ][youtube] 👋 
 
 <p align="left">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+  <a href="https://www.youtube.com/c/@CyberIntelHQ?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
   <a href="https://www.youtube.com/c/DevProTips">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
