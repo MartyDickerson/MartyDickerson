@@ -1,4 +1,4 @@
-# Hi there, I'm Marty👋 
+# Hi there, I'm Marty👋🏿 
 
  <p align="left">
      <a href="https://www.youtube.com/channel/UC_qakogJbrvgbMnBZ6igR9A" target="_blank">
