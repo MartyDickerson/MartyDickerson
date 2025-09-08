@@ -105,7 +105,7 @@ Programming projects that blend cybersecurity and development-->
 
 ### 💻 SOC Anaylst Projects
 <!-- YOUTUBE:START -->
-- [Home Lab using VirtualBox,Ubuntu and Splunk](https://github.com/MartyDickerson/Building-a-Home-Lab)
+- [Home Lab using VirtualBox,Ubuntu and Wazuh](https://github.com/MartyDickerson/Building-a-Home-Lab)
 - [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://www.youtube.com/watch?v=7Yo3eO-jitQ)
 - [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
 - [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
