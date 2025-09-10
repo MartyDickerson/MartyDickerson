@@ -107,7 +107,7 @@ Programming projects that blend cybersecurity and development-->
 ### 💻 SOC Anaylst Projects
 <!-- YOUTUBE:START -->
 - [Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration](https://github.com/MartyDickerson/Building-a-Home-Lab)
-- [Forget Everything you Thought you Knew about Deno | Deno 2 0 Crash Course](https://github.com/MartyDickerson/Security-SIEM-Detection-Lab-Setup-ELK-SIEM-with-ZEEK-and-Suricata)
+- [Security-SIEM-Detection-Lab-Setup-ELK-SIEM-with-ZEEK-and-Suricata](https://github.com/MartyDickerson/Security-SIEM-Detection-Lab-Setup-ELK-SIEM-with-ZEEK-and-Suricata)
 - [Stop Googling | Start Chopping!!](https://www.youtube.com/watch?v=bvCYpVqkn54)
 - [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
 - [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
