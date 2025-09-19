@@ -127,7 +127,7 @@ Programming projects that blend cybersecurity and development-->
 
 ### 🐍 Python Projects
 
-  - [To-Do List CLI App (Task Manager)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [To-Do List CLI App (Task Manager)](https://github.com/MartyDickerson/VSCode-Projects/blob/main/Python%20Projects/todolist.py)
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 <hr>
 
