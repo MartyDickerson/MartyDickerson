@@ -130,7 +130,7 @@ Programming projects that blend cybersecurity and development-->
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 <hr>
 
-### 📄 YouTube Resource Videos
+### 📄 SOC Analyst Resource Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Portable Workstation](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Portable Workstation")](https://www.youtube.com/shorts/s3uqGfDc8P8)
