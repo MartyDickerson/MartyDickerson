@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning to become a Cybersecurity SOC Analyst
 - 👯 I’m looking to network with other SOC Analyst
-- 🥅 202 Goals: Ship more!!
+- 🥅 2026 Goals: Ship more!!
 - ⚡ Fun fact: I love to stream on Twitch
 
 <!--🔐 SOC Analyst:
