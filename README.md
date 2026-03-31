@@ -106,7 +106,7 @@ Programming projects that blend cybersecurity and development-->
 ### 💻 SOC Anaylst Projects
 <!-- YOUTUBE:START -->
 - [Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration](https://github.com/MartyDickerson/Building-a-Home-Lab)
-- [SOC Automation Lab](https://github.com/MartyDickerson/Building-a-Home-Lab)
+- [SOC Automation Lab](https://github.com/MartyDickerson/SOC-AUTOMATION-LAB)
 - [Virtual SOC Home Lab Building Series](https://github.com/MartyDickerson/SOC-Lab-Building-Series)
 - [Top VS Code Updates over the Past Year | Tips &amp; Tricks 2024 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=NBzhtDJFce8)
 - [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
