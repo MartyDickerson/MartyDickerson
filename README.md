@@ -19,7 +19,7 @@ featuring Wazuh, Splunk, Docker, and custom Python automation.
 ---
 
 ## 🔭 Current Project
-**[CyberIntelHQ SOC Home Lab](https://github.com/MartyDickerson/soc-lab)**
+**[SOC Home Lab](https://github.com/MartyDickerson/soc-lab)**
 > A fully functional SOC lab with real-time threat detection, 
 > SIEM integration, Docker monitoring, and automated alert triage.
 
