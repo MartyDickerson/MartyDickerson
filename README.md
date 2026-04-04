@@ -106,7 +106,7 @@ Programming projects that blend cybersecurity and development-->
 ### 💻 SOC Anaylst Projects
 <!-- YOUTUBE:START -->
 - [Azure-Cloud-Security-Monitoring-with-Sentinel-Intergration](https://github.com/MartyDickerson/Building-a-Home-Lab)
-- [SOC Automation Lab](https://github.com/MartyDickerson/SOC-AUTOMATION-LAB)
+- [SOC Automation Lab](https://github.com/MartyDickerson/soc-lab)
 - [Virtual SOC Home Lab Building Series](https://github.com/MartyDickerson/SOC-Lab-Building-Series)
 <!-- YOUTUBE:END -->
 
