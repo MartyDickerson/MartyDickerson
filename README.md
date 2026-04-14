@@ -53,6 +53,7 @@ featuring Wazuh, Splunk, Docker, and custom Python automation.
 | Docker | Container monitoring | ✅ Running |
 | Python | SOC automation & enrichment | ✅ Running |
 | VirusTotal | IP/IOC enrichment | ✅ Integrated |
+| TheHive 5 | SOC Detection & Case Management Pipline | ✅ Integrated |
 
 ---
 
