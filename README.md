@@ -59,7 +59,7 @@
 
 ## 📫 Contact
 - 📧 cyberintelhq@gmail.com
-- 📸 Instagram: @cyberintelhq
+- 💼 LinkedIn: https://www.linkedin.com/in/dickersonmarty/
 - 📍 Alpharetta, GA — Open to remote & local opportunities
 
 ---
