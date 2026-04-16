@@ -36,7 +36,7 @@ featuring Wazuh, Splunk, Docker, and custom Python automation.
 
 ---
 
-## 🧠 What I'm Learning
+## 🧠 What I've Done
 - 🔴 Threat hunting with Splunk SPL
 - 🟠 Incident response workflows
 - 🟡 MITRE ATT&CK framework
