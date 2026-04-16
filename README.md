@@ -36,10 +36,11 @@
 ---
 
 ## 🧠 What I've Done
-- 🔴 Threat hunting with Splunk SPL
-- 🟠 Incident response workflows
-- 🟡 MITRE ATT&CK framework
-- 🔵 Python SOC automation
+- 🔴 Ran live SSH brute force attack — detected in real time via Wazuh + Splunk
+- 🟠 Simulated privilege escalation via sudo — triggered custom alert rules
+- 🟡 Deployed Windows Sysmon + Task Scheduler detection on live endpoint
+- 🔵 Built custom Python log indexer to replace incompatible Filebeat 7.10
+- ⚪ Automated hourly SOC triage with a custom Python cron script
 
 ---
 
