@@ -1,20 +1,19 @@
 # Hi there, I'm Marty👋🏿 
 
 <!-- Stats Row -->
+<!-- Stats + Languages Side by Side -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MartyDickerson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="380" />
-  <img src="https://streak-stats.demolab.com?user=MartyDickerson&theme=tokyonight" width="380" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyDickerson&layout=compact&theme=tokyonight" width="300" />
 </p>
 
-🛡️ **Aspiring SOC Analyst** based in Alpharetta, GA
+<!-- Top Languages -->
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyDickerson&layout=compact&theme=tokyonight" width="300" />
+</p>-->
 
-I'm building hands-on cybersecurity skills through a home SOC lab 
-featuring Wazuh, Splunk, Docker, and custom Python automation.
+
+🔵 SOC Analyst in training | Wazuh · Splunk · Docker · Python | Real attack simulations. Real detections. | Alpharetta, GA
 
 ---
 
