@@ -26,15 +26,15 @@
 
 ## 🛠️ Skills & Tools
 
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-green?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Automation-yellow?style=flat-square)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=flat-square)
-![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
-![TheHive](https://img.shields.io/badge/TheHive-F3C00D?style=flat&logo=thehive&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=flat-square&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-SIEM-green?style=flat-square&logo=splunk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=flat-square&logo=python&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square&logo=mitre&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-F3C00D?style=flat-square&logo=thehive&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
