@@ -3,7 +3,7 @@
 <!-- Stats Row -->
 <!-- Stats + Languages Side by Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartyDickerson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MartyDickerson&show_icons=true&theme=tokyonight&count_private=true" width="380" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyDickerson&layout=compact&theme=tokyonight" width="300" />
 </p>
 
