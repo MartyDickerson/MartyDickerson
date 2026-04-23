@@ -32,6 +32,9 @@
 ![Python](https://img.shields.io/badge/Python-Automation-yellow?style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Linux-E95420?style=flat-square)
 ![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=flat-square)
+![TheHive](https://img.shields.io/badge/TheHive-F3C00D?style=flat&logo=thehive&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 ---
 
