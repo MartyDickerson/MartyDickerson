@@ -47,6 +47,7 @@
 - 🟡 Deployed Windows Sysmon + Task Scheduler detection on live endpoint
 - 🔵 Built custom Python log indexer to replace incompatible Filebeat 7.10
 - ⚪ Automated hourly SOC triage with a custom Python cron script
+- 🟣 Built a GitHub Actions + Python pipeline to auto-log all commits to a Notion learning dashboard
 
 ---
 
