@@ -13,7 +13,7 @@
 </p>-->
 
 
-🔵 SOC Analyst in training | Wazuh · Splunk · Docker · Python | Real attack simulations. Real detections. | Alpharetta, GA
+🔵 SOC Analyst | Wazuh · Splunk · Docker · Python | Real attack simulations. Real detections. | Alpharetta, GA
 
 ---
 
