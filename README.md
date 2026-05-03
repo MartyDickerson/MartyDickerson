@@ -3,12 +3,8 @@
 <!-- Stats Row -->
 <!-- Stats + Languages Side by Side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MartyDickerson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartyDickerson&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MartyDickerson&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=MartyDickerson&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MartyDickerson&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <!-- Top Languages -->
