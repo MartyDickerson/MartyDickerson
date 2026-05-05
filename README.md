@@ -49,7 +49,6 @@
 | [soc-log-analyzer](https://github.com/MartyDickerson/soc-log-analyzer) | Python pipeline that parses auth logs and detects threats |
 | [phishing-analyzer](https://github.com/MartyDickerson/phishing-analyzer) | Python tool that parses email headers and detects phishing red flags |
 | [thehive-soc-lab](https://github.com/MartyDickerson/thehive-soc-lab) | TheHive 5 + Wazuh integration for automated incident response |
----
 
 ## 🧠 What I've Done
 - 🔴 Ran live SSH brute force attack — detected in real time via Wazuh + Splunk
