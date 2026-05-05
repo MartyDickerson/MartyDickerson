@@ -45,7 +45,6 @@
 | Project | Description |
 |---------|-------------|
 | [thm-tracker](https://github.com/MartyDickerson/thm-tracker) | Automated TryHackMe progress tracker — syncs to Notion via GitHub Actions |
-| [azure-sentinel-soc](https://github.com/MartyDickerson/azure-sentinel-soc) | Azure cloud security monitoring lab with Microsoft Sentinel SIEM integration |
 | [soc-log-analyzer](https://github.com/MartyDickerson/soc-log-analyzer) | Python pipeline that parses auth logs and detects threats |
 | [phishing-analyzer](https://github.com/MartyDickerson/phishing-analyzer) | Python tool that parses email headers and detects phishing red flags |
 | [thehive-soc-lab](https://github.com/MartyDickerson/thehive-soc-lab) | TheHive 5 + Wazuh integration for automated incident response |
