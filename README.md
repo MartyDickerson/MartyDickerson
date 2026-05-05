@@ -40,6 +40,16 @@
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ---
+## 🗂 Other Projects
+
+| Project | Description |
+|---------|-------------|
+| [thm-tracker](https://github.com/MartyDickerson/thm-tracker) | Automated TryHackMe progress tracker — syncs to Notion via GitHub Actions |
+| [azure-sentinel-soc](https://github.com/MartyDickerson/azure-sentinel-soc) | Azure cloud security monitoring lab with Microsoft Sentinel SIEM integration |
+| [soc-log-analyzer](https://github.com/MartyDickerson/soc-log-analyzer) | Python pipeline that parses auth logs and detects threats |
+| [phishing-analyzer](https://github.com/MartyDickerson/phishing-analyzer) | Python tool that parses email headers and detects phishing red flags |
+| [thehive-soc-lab](https://github.com/MartyDickerson/thehive-soc-lab) | TheHive 5 + Wazuh integration for automated incident response |
+---
 
 ## 🧠 What I've Done
 - 🔴 Ran live SSH brute force attack — detected in real time via Wazuh + Splunk
