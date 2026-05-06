@@ -49,6 +49,18 @@
 | [phishing-analyzer](https://github.com/MartyDickerson/phishing-analyzer) | Python tool that parses email headers and detects phishing red flags |
 | [thehive-soc-lab](https://github.com/MartyDickerson/thehive-soc-lab) | TheHive 5 + Wazuh integration for automated incident response |
 
+## 🔐 TryHackMe Progress
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-MartyDickerson-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MartyDickerson)
+
+| Room | Category | Difficulty | Completed |
+|------|----------|------------|-----------|
+| [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) | SOC | 🟢 Easy | 2025-05-04 |
+| [Security Operations Center (SOC)](https://tryhackme.com/room/securityoperationscenter) | SOC | 🟢 Easy | 2025-05-04 |
+| [A Day in the Life of a Security Analyst](https://tryhackme.com/room/adayinthelifeofasecurityanalyst) | SOC | 🟢 Easy | 2025-05-04 |
+
+> 🔄 Full progress tracked automatically in [thm-tracker](https://github.com/MartyDickerson/thm-tracker)
+
 ## 🧠 What I've Done
 - 🔴 Ran live SSH brute force attack — detected in real time via Wazuh + Splunk
 - 🟠 Simulated privilege escalation via sudo — triggered custom alert rules
