@@ -60,6 +60,7 @@
 | [A Day in the Life of a Security Analyst](https://tryhackme.com/room/adayinthelifeofasecurityanalyst) | SOC | 🟢 Easy | 2025-05-04 |
 | [SOC Role in Blue Team](https://tryhackme.com/room/socroleblueTeam) | SOC | 🟢 Easy | 2026-05-12 |
 | [SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage) | SOC | 🟢 Easy | 2026-05-13 |
+| [SOC L1 Alert Reporting](https://tryhackme.com/room/socl1alertreporting) | SOC | 🟢 Easy | 2026-05-25 |
 
 > 🔄 Full progress tracked automatically in [thm-tracker](https://github.com/MartyDickerson/thm-tracker)
 
