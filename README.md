@@ -14,6 +14,7 @@
 
 
 🔵 SOC Analyst | Wazuh · Splunk · Docker · Python Real attack simulations. Real detections. Real automation. 📍 Alpharetta, GA — open to remote & local roles
+
 ---
 
 ## 🔭 Current Project
