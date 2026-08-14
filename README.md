@@ -48,6 +48,9 @@
 | [soc-log-analyzer](https://github.com/MartyDickerson/soc-log-analyzer) | Python pipeline that parses auth logs and detects threats |
 | [phishing-analyzer](https://github.com/MartyDickerson/phishing-analyzer) | Python tool that parses email headers and detects phishing red flags |
 | [thehive-soc-lab](https://github.com/MartyDickerson/thehive-soc-lab) | TheHive 5 + Wazuh integration for automated incident response |
+| [mitre-attack-mapper](https://github.com/MartyDickerson/mitre-attack-mapper) | Maps SOC threat findings to MITRE ATT&CK tactics and techniques |
+| [Azure-Cloud-Security-Monitoring-with-Sentinel-Integration](https://github.com/MartyDickerson/Azure-Cloud-Security-Monitoring-with-Sentinel-Integration) | Azure cloud security monitoring lab with Microsoft Sentinel SIEM integration and automated threat detection |
+| [wazuh-powershell-detection](https://github.com/MartyDickerson/wazuh-powershell-detection) | Custom Wazuh detection rules for PowerShell abuse — encoded commands, download cradles, execution policy bypass, hidden windows (MITRE T1059.001) |
 
 ## 🔐 TryHackMe Progress
 
@@ -83,7 +86,7 @@
 | Docker | Container monitoring | ✅ Running |
 | Python | SOC automation & enrichment | ✅ Running |
 | VirusTotal | IP/IOC enrichment | ✅ Integrated |
-| TheHive 5 | SOC Detection & Case Management Pipline | ✅ Integrated |
+| TheHive 5 | SOC Detection & Case Management Pipeline | ✅ Integrated |
 
 ---
 
