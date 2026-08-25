@@ -18,9 +18,9 @@
 ---
 
 ## 🔭 Current Project
-**[SOC Home Lab](https://github.com/MartyDickerson/soc-lab)**
-> A fully functional SOC lab with real-time threat detection, 
-> SIEM integration, Docker monitoring, and automated alert triage.
+**[Linux SOC Detection Suite](https://github.com/MartyDickerson/SIEM-detection-lab-Kali-Ubuntu-Sumo-Logic-)**
+> SIEM detection engineering in Sumo Logic — SSH brute force, invalid username, sudo/privilege
+>  escalation, and SSH public key auth monitoring, mapped to MITRE ATT&CK and validated end-to-end.
 
 ---
 
